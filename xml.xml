@@ -1,1 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listing xmlns="http://www.airbnb.com/schemas/airbnb-listing/v1" schemaVersion="1.0">
+  <lastUpdated>2019-01-03T18:49:31Z</lastUpdated>
+  <published>true</published>
+  <basicDetails>
+    <bathrooms>1</bathrooms>
+    <bedrooms>0</bedrooms>
+    <propertyType>apartment</propertyType>
+    <listingType>entire_home</listingType>
+    <amenities>
+      <amenity>cable</amenity>
+      <amenity>carbon_monoxide_detector</amenity>
+      <amenity>dryer</amenity>
+      <amenity>elevator</amenity>
+      <amenity>essentials</amenity>
+      <amenity>family_friendly</amenity>
+      <amenity>fire_extinguisher</amenity>
+      <amenity>first_aid_kit</amenity>
+      <amenity>hair-dryer</amenity>
+      <amenity>hangers</amenity>
+      <amenity>heating</amenity>
+      <amenity>internet</amenity>
+      <amenity>iron</amenity>
+      <amenity>kitchen</amenity>
+      <amenity>laptop-friendly</amenity>
+      <amenity>safety_card</amenity>
+      <amenity>shampoo</amenity>
+      <amenity>smoke_detector</amenity>
+      <amenity>tv</amenity>
+      <amenity>washer</amenity>
+      <amenity>wireless_internet</amenity>
+    </amenities>
+    <cancellationPolicy>moderate</cancellationPolicy>
+    <personCapacity>2</personCapacity>
+    <guestsIncluded>2</guestsIncluded>
+    <beds>1</beds>
+    <checkInTimeStart>14</checkInTimeStart>
+    <checkOutTime>11</checkOutTime>
+    <permitId></permitId>
+    <roomConfigurations>
+      <roomConfiguration>
+        <roomNumber>0</roomNumber>
+        <beds>
+          <bed>
+            <type>sofa_bed</type>
+            <quantity>1</quantity>
+          </bed>
+        </beds>
+      </roomConfiguration>
+    </roomConfigurations>
+  </basicDetails>
+  <descriptions>
+    <description>
+      <language>en</language>
+      <name>Cosy and Lovely Flat#Heart of Paris#Sunny</name>
+      <summary>In the heart of Paris, within a short walking distance of Les Halles neighbourhood, come and enjoy an unforgettable stay in this cosy studio, with all necessary comfort. Wifi, washing-drying machine, incredible view, this studio will help you spend perfects days in Paris. Various metro stations are close to the appartment. You will be also able to walk to Rue Montorgueil and its several restaurants and cafés.</summary>
+      <space>In the heart of Paris, within a short walking distance of Les Halles neighbourhood, come and enjoy an unforgettable stay in this cosy studio, with all necessary comfort. 
+Wifi, washing-drying machine, incredible view, this studio will help you spend perfects days in Paris.
+Various metro stations are close to the appartment. You will be also able to walk to Rue Montorgueil and its several restaurants and cafés.</space>
+      <access>The whole accomodation is available.</access>
+      <interaction>I am available before and during your stay, do not hesitate to write to me !</interaction>
+      <neighborhood/>
+      <transit>Metro station ''Réaumur-Sébastopol'', on lines 3 and 4.</transit>
+      <houseRules></houseRules>
+      <notes>Please take care of this acomodation as if it was yours and respect your neighbours tranquility.
 
+Ref. ClubLord-1828
+
+Free Wifi</notes>
+    </description>
+    <description>
+      <language>fr</language>
+      <name>Cosy and Lovely Flat#Heart of Paris#Sunny</name>
+      <summary>En plein coeur de Paris, à 2 pas du quartier des Halles, venez passer un séjour mémorable dans ce cosy studio tout confort. Wifi, machine à laver séchante, vue imprenable, ce studio saura rendre votre séjour parfait. Plusieurs métros sont à proximité et vous pourrez vous rendre rue Montorgueil (à 2 minutes) avec ces nombreux restaurants et bars.</summary>
+      <space>En plein coeur de Paris, à 2 pas du quartier des Halles, venez passer un séjour mémorable dans ce cosy studio tout confort. Wifi, machine à laver séchante, vue imprenable, ce studio saura rendre votre séjour parfait. Plusieurs métros sont à proximité et vous pourrez vous rendre rue Montorgueil (à 2 minutes) avec ces nombreux restaurants et bars.</space>
+      <access>Le logement est entièrement dédié aux voyageurs</access>
+      <interaction>Je suis disponible durant tout le séjour pour répondre à vos questions :)</interaction>
+      <neighborhood>En plein coeur de paris, en plein centre et à deux pas de Châtelet, ce cosy studio bénéficie de tout le confort nécessaire à un séjour parfait. Tout équipé (wifi, Machine à laver séchante, TV), il est situé dans un immeuble de standing (avec ascenseur). Le linge de maison est fourni pour plus de confort. Idéal pour un séjour en amoureux dans la capitale</neighborhood>
+      <transit>Métro Réaumur Sebastopol ligne 3 et 4. (Le logement est à 1 minute à pied du métro)</transit>
+      <houseRules></houseRules>
+      <notes>Nous demandons aux voyageurs de respecter la tranquillité du voisinage et de respecter tout autant le logement.
+Merciii
+
+Ref. ClubLord-1828
+
+Connexion Wi-Fi gratuite</notes>
+    </description>
+  </descriptions>
+  <location>
+    <lat>53.344738</lat>
+    <lng>-6.232669</lng>
+    <apt></apt>
+    <streetAddress>95 Boulevard de Sébastopol</streetAddress>
+    <city>Paris</city>
+    <administrativeDivision>Île-de-France</administrativeDivision>
+    <postalCode>75002</postalCode>
+    <countryCode>IE</countryCode>
+  </location>
+  <photos>
+    <photo>
+      <uri>https://res-5.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927842/1tih_c07f1cb1-c3c0-469b-b575-a79f91fb2953.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-5.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927843/1tih_31e20044-e0e7-41b2-b07c-1d667b4a9251.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-4.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927846/1tih_6eb509e5-7a9e-4c75-89f6-a1c4b2183855.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-1.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927850/1tih_fa161a4c-be86-4396-92b3-c09db83a568d.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-1.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927853/1tih_1a956c9f-9a0c-4c85-b358-aea15546e564.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-4.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927856/1tih_a276168c-8faf-449f-96a6-c1266d3b6e2a.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-1.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927861/1tih_31144daf-4722-4a35-a7d0-76f378cf87ab.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-1.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927863/1tih_cdcad3e1-cd63-41da-bafe-444c6699392a.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-3.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927875/1tih_baff9af4-24f8-43dd-b6cc-a8729fad6b3f.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-2.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927877/1tih_5e9d1509-2649-4e44-988b-4448e4f3a104.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-2.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927877/1tih_571d9e92-835e-448f-80fb-dc7a2b93abc1.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-5.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927883/1tih_55912aac-2184-4500-909e-c1999ad91319.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-5.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927885/1tih_85ec4034-5300-435b-917b-d1cbd62a6259.jpg</uri>
+      <caption/>
+    </photo>
+    <photo>
+      <uri>https://res-1.cloudinary.com/bookingsync/image/upload/w_4200,h_2700,c_lfill/v1543927886/1tih_08efa092-f6d9-4c5c-9837-f879466a7b93.jpg</uri>
+      <caption/>
+    </photo>
+  </photos>
+  <pricing>
+    <currency>EUR</currency>
+    <defaultDailyPrice>73</defaultDailyPrice>
+    <extraPersonPrice>0</extraPersonPrice>
+    <monthlyPriceFactor>0.85</monthlyPriceFactor>
+    <weeklyPriceFactor>0.9</weeklyPriceFactor>
+    <cleaningFee>50</cleaningFee>
+    <securityDeposit>100</securityDeposit>
+    <customPricing>
+      <customDailyPricing>
+        <dateRange>
+          <startDate>2019-01-01</startDate>
+          <endDate>2021-12-31</endDate>
+        </dateRange>
+        <dailyPrices>D,D,D,D,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,73,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,125,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D</dailyPrices>
+      </customDailyPricing>
+    </customPricing>
+  </pricing>
+  <availability>
+    <defaultAvailable>true</defaultAvailable>
+    <bookingLeadTime>
+      <hours>48</hours>
+      <allowRequestToBook>1</allowRequestToBook>
+    </bookingLeadTime>
+    <maxDaysNotice>365</maxDaysNotice>
+    <turnoverDays>0</turnoverDays>
+    <defaultMinNights>3</defaultMinNights>
+    <availabilityPeriods>
+      <availabilityPeriod>
+        <dateRange>
+          <startDate>2019-01-01</startDate>
+          <endDate>2021-12-31</endDate>
+        </dateRange>
+        <periodMinNights>3</periodMinNights>
+        <dailyAvailability>U,U,U,U,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U,U</dailyAvailability>
+        <dailyChangeOver>O,N,N,N,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,O,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N</dailyChangeOver>
+      </availabilityPeriod>
+    </availabilityPeriods>
+  </availability>
+</listing>
